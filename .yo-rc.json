@@ -1,0 +1,17 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.15.2",
+    "libraryName": "new-folder-2",
+    "libraryId": "174864b2-1383-4b98-b8fa-c589deed3c5d",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "new-folder-2",
+    "solutionShortDescription": "new-folder-2 description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "extension",
+    "extensionType": "ApplicationCustomizer"
+  }
+}
